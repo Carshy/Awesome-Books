@@ -1,3 +1,5 @@
+/* eslint-disable max-classes-per-file */
+
 // Book Class
 class Book {
     constructor(title, author) {
@@ -80,4 +82,4 @@ class Book {
     Storage.removeBook(e.target.parentElement.previousElementSibling.textContent);
   });
   
-  
+ /* eslint-disable max-classes-per-file */ 
