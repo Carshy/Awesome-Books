@@ -1,0 +1,27 @@
+{
+  "name": "awesome-books",
+  "version": "1.0.0",
+  "description": "-The current project is an Awesome Booklist that we worked on together with my Coding Partner. The project has two functionalities:\r * Allows the user to add a book.\r * Allows a user to delete or remove a book.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carshy/Awesome-Books.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Carshy/Awesome-Books/issues"
+  },
+  "homepage": "https://github.com/Carshy/Awesome-Books#readme",
+  "devDependencies": {
+    "hint": "^7.0.1",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  }
+}
